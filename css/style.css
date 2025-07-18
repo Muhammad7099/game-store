@@ -134,3 +134,8 @@ body {
 .game-card button:hover {
     background-color: #00ddaa;
 }
+
+.discounts .price s {
+    color: #888;
+    margin-right: 5px;
+}
